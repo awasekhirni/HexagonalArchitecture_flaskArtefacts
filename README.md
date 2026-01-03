@@ -1,0 +1,2 @@
+# HexagonalArchitecture_flaskArtefacts
+Hexagonal Architecture_flask Artefacts
